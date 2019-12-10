@@ -1,0 +1,7 @@
+com/example/restcalculatorbyjosuehr/model/Multiplication.class
+com/example/restcalculatorbyjosuehr/model/Operation.class
+com/example/restcalculatorbyjosuehr/controller/CalculatorController.class
+com/example/restcalculatorbyjosuehr/model/Addition.class
+com/example/restcalculatorbyjosuehr/model/Division.class
+com/example/restcalculatorbyjosuehr/model/Response.class
+com/example/restcalculatorbyjosuehr/model/Subtraction.class
